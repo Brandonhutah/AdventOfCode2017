@@ -2,6 +2,9 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.*;
 
+/// Advent of Code 2017 Day 4 - High-Entropy Passphrases
+/// Author: Brandon Horlacher
+/// Date: November 28, 2018
 public class driver {
     public static void main(String[] args) {
         // variables to be used in solving the puzzle
